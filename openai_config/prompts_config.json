@@ -1,0 +1,4 @@
+{
+    "analysis_prompt": "Analyze the stock price trends from the following plot URLs: ",
+    "task_instruction": "Please identify the top-performing stocks based on the stock price changes over the past 3 months."
+}

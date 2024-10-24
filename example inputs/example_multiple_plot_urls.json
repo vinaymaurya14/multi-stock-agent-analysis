@@ -1,0 +1,9 @@
+{
+    "plot_urls": [
+      "https://your-bucket-name.s3.amazonaws.com/stock_plots/AAPL.png",
+      "https://your-bucket-name.s3.amazonaws.com/stock_plots/GOOGL.png",
+      "https://your-bucket-name.s3.amazonaws.com/stock_plots/TSLA.png",
+      "https://your-bucket-name.s3.amazonaws.com/stock_plots/AMZN.png",
+      "https://your-bucket-name.s3.amazonaws.com/stock_plots/MSFT.png"
+    ]
+  }  
